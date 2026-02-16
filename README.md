@@ -493,7 +493,7 @@ I explored logistic regression, random forest, and gradient boosting models duri
 - [ ] **Automated Monitoring:** Set up weekly reports tracking Danger Score distribution shifts
 
 ### **Career Development:**
-- **Actively seeking Junior Data Analyst roles** in Geneva/Zurich area
+- **Actively seeking Junior Data Analyst roles** in Geneva area
 - **Target sectors:** Banking, fintech, e-commerce, management consulting
 - **Languages:** Native bilingual (French/English) — comfortable in Romandie and international teams
 - **Ideal role:** Analytical problem-solving for business stakeholders + hands-on Python/SQL work
@@ -512,6 +512,6 @@ Geneva, Switzerland
 
 ---
 
-*This project was developed as part of my career transition into data analytics through **Digitalizers Geneva**, demonstrating initiative and structured self-learning during my job search. It represents 8 weeks of hands-on work (January-March 2025) and showcases end-to-end analytical capabilities: from raw data acquisition to executive-ready strategic recommendations.*
+*This project was developed as part of my career transition into data analytics through **Digitalizers Geneva**, demonstrating initiative and structured self-learning during my job search. It represents 8 weeks of hands-on work (January-February 2026) and showcases end-to-end analytical capabilities: from raw data acquisition to executive-ready strategic recommendations.*
 
 ** If this project resonates with you, please star the repository!**
