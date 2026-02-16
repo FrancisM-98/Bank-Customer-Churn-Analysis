@@ -30,9 +30,9 @@ df.info()
 print("\n--- Null Values Check ---")
 null_counts = df.isnull().sum()
 if null_counts.sum() == 0:
-    print("✓ No null values found in the dataset.")
+    print("[OK] No null values found in the dataset.")
 else:
-    print("! Null values found:")
+    print("[!] Null values found:")
     print(null_counts[null_counts > 0])
 
 # Block 6: Data Quality - Duplicates

@@ -99,10 +99,10 @@ def calculate_danger_score(row):
 ## Data Quality Summary
 
 ### Validation Results
-- ✅ **No missing values** across all 10,000 records
-- ✅ **No duplicate rows** found
-- ✅ **All numeric ranges validated** (no outliers outside expected bounds)
-- ✅ **Categorical variables consistent** (no typos or unexpected values)
+- [OK] **No missing values** across all 10,000 records
+- [OK] **No duplicate rows** found
+- [OK] **All numeric ranges validated** (no outliers outside expected bounds)
+- [OK] **Categorical variables consistent** (no typos or unexpected values)
 
 ### Notable Data Patterns
 - **Zero Balance Accounts:** 3,607 customers (36.07%) have Balance = $0
